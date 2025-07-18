@@ -18,14 +18,14 @@
 ---
 
 ## 🚀 How to Use:
-git clone https://github.com/SekharNaiyudu/keyvenom
-cd keyvenom
-chmod +x keyvenom
-./keyvenom
+-> git clone https://github.com/SekharNaiyudu/keyvenom
+-> cd keyvenom
+-> chmod +x keyvenom
+-> ./keyvenom
 
--select interface
--give lhost and lport
--run after the payload send to the victim and installation.....
+-> select interface
+-> give lhost and lport
+-> run after the payload send to the victim and installation.....
 
 ------------------------------------------------------------------------------------
 
